@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/fontbox-0.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jaxen-1.1-beta-6.jar"/>
+	<classpathentry kind="lib" path="lib/je-analysis-1.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/jericho-html-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.10-bin.jar"/>
+	<classpathentry kind="lib" path="lib/ooxml-schemas-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/PDFBox-0.7.3.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/poi-contrib-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
